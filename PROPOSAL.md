@@ -29,7 +29,14 @@ Endless DeFi UX Optimizer is a front-end prototype designed to:
 - Provide a clear, intuitive flow from swap → deposit → portfolio
 - Enhance UX without modifying core backend functionality
 
-*Screenshots of the prototype (insert your own images from Figma):*
+*Screenshots of the prototype ### Swap / Deposit Screen
+![Swap Deposit Screen](images/swap-deposit.png)
+
+### Portfolio & Aggregation Screen
+![Portfolio Screen](images/portfolio.png)
+
+### Connect Wallet Screen
+![Connect Wallet Screen](images/connect-wallet.png):*
 1. Swap / Deposit screen
 2. Portfolio & Aggregation screen
 3. Wallet connection flow
@@ -55,4 +62,4 @@ These screenshots demonstrate the visual hierarchy, button placement, and intera
 ## 8. Additional Notes
 - The prototype does not require live blockchain transactions to demonstrate UX flow.
 - All screenshots and links showcase the core design and interaction ideas.
-- Intellectual property of the design remains with the participant.
+- Intellectual property of the design remains with Gold Daniels.
