@@ -60,7 +60,7 @@ These screenshots demonstrate the visual hierarchy, button placement, and intera
 ## 5. Implementation Plan
 - Prototype: Built in Figma, visually representing all UX flows
 - Front-End Link: https://www.figma.com/design/4DUWutIbAuLSP7NJ6UzYiI/Endless-Defi-UX-Optimizer
-- Optional GitHub Repo: [GitHub Repo Placeholder] – contains HTML/CSS layout reflecting the prototype screens
+- Optional GitHub Repo: [GitHub Repository]https://github.com/GoldENDLESS/endless--defi---ux---optimizer- contains proposal documentation, UX screenshots, and Figma prototype link
 - Future Deployment: The design can be implemented with the Endless SDK, Wallet API, and smart contracts for a fully functional platform.
 
 ## 6. Value to Endless Ecosystem
