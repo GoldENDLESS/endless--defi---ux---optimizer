@@ -1,3 +1,23 @@
+# Endless DeFi UX Optimizer
+
+This project improves DeFi UX on Endless by making swaps safer, clearer, and more transparent.
+
+## Features
+- Slippage warning before swap
+- Estimated output clarity
+- Fee transparency
+- UX protection for users
+
+## Demo
+This is a frontend prototype demonstrating UX improvements for Endless Wallet DeFi interactions.
+
+## Tech
+- HTML
+- CSS
+- JavaScript
+
+## Status
+Prototype / UX Demo
 # AI-Assisted DeFi UX Optimizer for Endless
 
 ## Overview
@@ -65,3 +85,34 @@ A live demo link or recorded walkthrough can be added in future iterations.
 
 ## Ownership & Integrity
 This project is an original work created for the Endless Ecosystem Creative Proposal Competition. All content and ideas are original and intended to benefit the Endless ecosystem.
+# Endless DeFi UX Optimizer
+
+An AI-assisted DeFi optimization and UX enhancement prototype built for the Endless Ecosystem Creative Proposal Competition.
+
+## Overview
+This project proposes an AI-powered DeFi experience layer on Endless that helps users make smarter DeFi decisions with reduced friction.
+
+The prototype demonstrates how Endless can integrate:
+- AI-assisted yield suggestions
+- Simplified DeFi UX flows
+- Modular integration with Endless Wallet and SDK
+
+## Problem
+DeFi users on emerging ecosystems often face:
+- Complex user interfaces
+- Poor guidance on swaps, yields, and risks
+- Fragmented DeFi tooling
+
+This reduces adoption and user confidence.
+
+## Solution
+Endless DeFi UX Optimizer introduces:
+- Smart AI hints during swaps and DeFi actions
+- UX flows designed for clarity and accessibility
+- A foundation for future AI + DeFi tooling on Endless
+
+## Status
+This is a functional proof-of-concept prototype submitted to the Endless Creative Proposal Competition.
+
+## Author
+Gold Daniels
