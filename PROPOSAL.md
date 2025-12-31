@@ -30,13 +30,27 @@ Endless DeFi UX Optimizer is a front-end prototype designed to:
 - Enhance UX without modifying core backend functionality
 
 *Screenshots of the prototype ### Swap / Deposit Screen
-![Swap Deposit Screen](images/swap-deposit.png)
+### Swap / Deposit Screen
+![Swap Screen](images/swap-screen.png)
+
+*Description:*  
+This screen demonstrates the unified Swap and Deposit entry point, designed to reduce user friction and improve transaction clarity.
+
+---
 
 ### Portfolio & Aggregation Screen
-![Portfolio Screen](images/portfolio.png)
+![Portfolio Screen](images/portfolio-screen.png)
+
+*Description:*  
+Displays aggregated token balances and AI-powered yield suggestions (ETH & USDT), helping users make informed DeFi decisions.
+
+---
 
 ### Connect Wallet Screen
-![Connect Wallet Screen](images/connect-wallet.png):*
+![Connect Wallet Screen](images/connect-wallet.png)
+
+*Description:*  
+Shows a simplified wallet connection flow optimized for first-time and returning users.
 1. Swap / Deposit screen
 2. Portfolio & Aggregation screen
 3. Wallet connection flow
@@ -56,10 +70,10 @@ These screenshots demonstrate the visual hierarchy, button placement, and intera
 4. Presentation & Documentation: Clear visuals, flow, and proposal make onboarding easier for new developers and users
 
 ## 7. Submission Links
-- Figma Prototype (Front-End Demo): https://www.figma.com/design/4DUWutIbAuLSP7NJ6UzYiI/Endless-Defi-UX-Optimizer
-- Optional GitHub Repo (Code / Layout Placeholder): [GitHub Repo Link Here, if created]
+- [Figma Prototype – View Demo]https://www.figma.com/design/4DUWutIbAuLSP7NJ6UzYiI/Endless-Defi-UX-Optimizer 
+- [GitHub Repository]https://github.com/GoldENDLESS/endless--defi---ux---optimizer
 
 ## 8. Additional Notes
 - The prototype does not require live blockchain transactions to demonstrate UX flow.
 - All screenshots and links showcase the core design and interaction ideas.
-- Intellectual property of the design remains with Gold Daniels.
+- Intellectual property of the design remains with me the participant,Gold Daniels.
